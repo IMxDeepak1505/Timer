@@ -1,1 +1,0 @@
-Timer made with python
